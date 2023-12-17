@@ -1,2 +1,2 @@
-# ToDo-list
-ToDo List with React
+# ToDo List
+ToDo List with HTML, CSS and ReactJS
